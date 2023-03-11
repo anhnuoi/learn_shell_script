@@ -1,3 +1,3 @@
-# learn_shell_scriptLet's learn shell script with me
-DOnt worry. It's fun.
+Let's learn shell script with me
+Dont worry. It's fun.
 Keep trying.
